@@ -9,7 +9,7 @@ Each step below is ticked and committed as it happens. Names, hours and pay are 
 | | Step | When | Note |
 |---|---|---|---|
 | ✅ | Bundy + rosters pulled | Thu 26 Nov 09:42 | 289 punches, 34 comments, housekeeping sheet only |
-| ⬜ | Rules run, questions listed |  |  |
+| ✅ | Rules run, questions listed | Thu 26 Nov 09:42 | 49 people, 8 questions |
 | ⬜ | Xero preview checked |  |  |
 | ⬜ | Wages workbook filled |  |  |
 | ⬜ | Questions answered |  |  |
