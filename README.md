@@ -13,7 +13,7 @@ Each step below is ticked and committed as it happens. Names, hours and pay are 
 | ✅ | Xero preview checked | Thu 26 Nov 09:43 | 53 payslips mapped, 0 problems |
 | ✅ | Wages workbook filled | Thu 26 Nov 09:43 | tab 01/12/2026 + Wages review (8 questions) |
 | ✅ | Questions answered | Thu 26 Nov 13:10 | 8 of 8 answered (all suggestions used) |
-| ⬜ | Approved by Joel |  |  |
+| ✅ | Approved by Joel | Thu 26 Nov 13:10 | approved in the dashboard |
 | ⬜ | Xero draft pay run made |  |  |
 | ⬜ | Posted in Xero (Joel) |  |  |
 
